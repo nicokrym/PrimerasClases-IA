@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify. El dataset se encuentra en el archivo `StreamingHistory_Extended.csv` [disponible aquí]().
+El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify. El dataset se encuentra en el archivo `StreamingHistory_Extended.csv` [disponible aquí](https://raw.githubusercontent.com/IgnacioPardo/Tecnologias_Exponenciales_2024/c5f00745aea4b684ee743fabc34e3226a57f5f2f/TP_Spotify/StreamingHistory_Extended.csv?token=GHSAT0AAAAAAC7E27ACSDPVU63B53AIUUIS2BDHTWA).
 
 Para realizar el análisis, se debe utilizar Python y las herramientas vistas en clase. En particular Pandas y Matplotlib. Opcionalmente se pueden utilizar otras herramientas como Seaborn.
 
