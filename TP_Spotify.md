@@ -26,7 +26,7 @@ El análisis debe incluir al menos los siguientes puntos:
 8. Determinar el top 10 de artistas más escuchados . Elegir un tipo de gráfico adecuado para visualizar los resultados.
 9. Determinar el top 10 de canciones más escuchadas. Elegir un tipo de gráfico adecuado para visualizar los resultados.
 
-Ademas, se deben plantear al menos 3 preguntas adicionales y responderlas utilizando el dataset.
+Además se deben plantear al menos 3 análisis adicionales. Responderlas utilizando el dataset y acompañarlas con gráficos adecuados.
 
 ## 🔋 Bonus
 
