@@ -66,9 +66,9 @@ El notebook debe ejecutarse sin errores y debe incluir:
 
 ## Fecha de entrega
 
-📅 A definir
+📅 Lunes 9 de Junio hasta las 23:59
 
-Se debe entregar en el siguiente [Google Forms]() el Notebook con el análisis realizado.
+Se debe entregar en el siguiente [Google Forms](https://forms.gle/gJQDXBnTVPQ8Yuww8) el Notebook con el análisis realizado.
 
 ## Referencias
 
